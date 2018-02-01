@@ -1,12 +1,12 @@
 -- images used for navigation/menuicons
-pic1=Image.load("Theme/1.png")
-pic2=Image.load("Theme/2.png")
-pic3=Image.load("Theme/3.png")
-pic4=Image.load("Theme/4.png")
-pic5=Image.load("Theme/5.png")
-pic6=Image.load("Theme/6.png")
-pic7=Image.load("Theme/7.png")
-pic8=Image.load("Theme/8.png")
+pic1=Image.load("Image/1.png")
+pic2=Image.load("Image/2.png")
+pic3=Image.load("Image/3.png")
+pic4=Image.load("Image/4.png")
+pic5=Image.load("Image/5.png")
+pic6=Image.load("Image/6.png")
+pic7=Image.load("Image/7.png")
+pic8=Image.load("Image/8.png")
 
 --menu
 selected=1
